@@ -1,5 +1,5 @@
 # Make a variable that says how many terms to print out.
-terms = 30
+terms = 50
 
 # Create a sequence that will hold the terms.
 sequence = [0, 1]
